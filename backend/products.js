@@ -6,14 +6,14 @@ const products = [
     price: 699,
     image: "https://m.media-amazon.com/images/I/71MHTD3uL4L._FMwebp__.jpg",
   },
-  {
-    id: 1,
-    name: "iphone 10 pro",
-    desc: "5.1 inch display",
-    price: 599,
-    image:
-      "https://images-na.ssl-images-amazon.com/images/I/81LmL94PUvS.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-  },
+  //   {
+  //     id: 1,
+  //     name: "iphone 10 pro",
+  //     desc: "5.1 inch display",
+  //     price: 599,
+  //     image:
+  //       "https://images-na.ssl-images-amazon.com/images/I/81LmL94PUvS.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+  //   },
   {
     id: 1,
     name: "imac pro",
