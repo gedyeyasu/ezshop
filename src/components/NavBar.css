@@ -1,0 +1,35 @@
+/* NavBar */
+.navbar {
+  height: 78px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0rem 4rem;
+}
+.navbar a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar h2 {
+  font-size: 40px;
+}
+
+.nav-bag {
+  display: flex;
+  align-items: center;
+}
+.bag-quantity {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 25px;
+  width: 25px;
+  background-color: yellow;
+  border-radius: 58%;
+  font-size: 14px;
+  font-weight: 700;
+  color: black;
+  margin-left: 5px;
+}
